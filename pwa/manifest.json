@@ -1,15 +1,15 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
-  "description": "A personal blog by engineer",
+  "name": "之外语文",
+  "short_name": "之外语文",
+  "description": "之外语文网站",
   "icons": [{
-    "src": "icons/pwa_icon_128.png",
+    "src": "icons/zhuai_square_128.jpg",
     "sizes": "128x128",
-    "type": "image/png"
+    "type": "image/jpg"
   }, {
-    "src": "icons/pwa_icon_512.png",
+    "src": "icons/zhuai_square_512.jpg",
     "sizes": "512x512",
-    "type": "image/png"
+    "type": "image/jpg"
   }],
   "background_color": "#fff",
   "theme_color": "#000",
