@@ -1,17 +1,17 @@
 # Site settings
-title: 之外语文
-SEOTitle: 之外语文
-header-img: img/post-bg-desk.jpg
+title: 之外语文 - 语文之外还有之外语文
+SEOTitle: 之外语文 - 语文之外还有之外语文
+header-img: img/zhuai_horizontal_wide.jpg
 email: Haku_Bill@outlook.com
-description: "语文之外的地方"
+description: "语文之外还有之外语文"
 keyword: "之外语文, Bill Haku"
-url: "http://bill-haku.github.io"          # your host, for absolute URL
+url: "http://zhuaiyuwen.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/bill-haku/bill-haku.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                         # whether or not using Sidebar.
-sidebar-about-description: "语文之外的地方"
+sidebar-about-description: "之外语文编辑部"
 sidebar-avatar: /img/zhiwai_avatar.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -22,7 +22,7 @@ weibo_username:     水里的碳酸钙
 zhihu_username:     水里的碳酸钙
 github_username:    Bill-Haku
 #facebook_username:  haku_bill
-jianshu_username:   e71990ada2fd
+#jianshu_username:   e71990ada2fd
 twitter_username:   Haku_Bill
 
 
@@ -99,11 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://www.apple.com"
+        title: "GitHub",
+        href: "https://github.com"
     },{
-        title: "奥奥",
+        title: "奥奥Blog",
         href: "http://aoaoblog.work/"
+    },{
+        title: ""
     }
 ]
 
