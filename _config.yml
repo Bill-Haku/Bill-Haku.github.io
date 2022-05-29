@@ -2,7 +2,7 @@
 title: 之外语文
 SEOTitle: 之外语文
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: Haku_Bill@outlook.com
 description: "语文之外的地方"
 keyword: "之外语文, Bill Haku"
 url: "http://bill-haku.github.io"          # your host, for absolute URL
@@ -10,20 +10,20 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/bill-haku/bill-haku.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: false                          # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                         # whether or not using Sidebar.
+sidebar-about-description: "语文之外的地方"
+sidebar-avatar: /img/zhiwai_avatar.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+weibo_username:     水里的碳酸钙
+zhihu_username:     水里的碳酸钙
+github_username:    Bill-Haku
+#facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+twitter_username:   Haku_Bill
 
 
 
