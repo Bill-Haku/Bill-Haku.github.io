@@ -19,7 +19,7 @@ sidebar-avatar: /img/zhiwai_avatar.jpg     # use absolute URL, seeing it's used 
 # SNS settings
 RSS: true
 weibo_username:     水里的碳酸钙
-zhihu_username:     水里的碳酸钙
+#zhihu_username:     水里的碳酸钙
 github_username:    Bill-Haku
 #facebook_username:  haku_bill
 #jianshu_username:   e71990ada2fd
