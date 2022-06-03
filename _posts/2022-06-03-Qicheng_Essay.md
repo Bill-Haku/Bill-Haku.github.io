@@ -4,14 +4,12 @@ title:      启程随笔 			# 标题
 subtitle:   之外语文代表作之一              #副标题
 date:       2022-06-03 				# 时间
 author:     yellowturtlesdad				# 作者
-header-img: img/pixiv_98602888.jpg 	#这篇文章标题背景图片
+header-img: img/QichengEssay/title.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 之外语文
     - 启程随笔
 ---
-
-# 启程随笔摘要
 
 > 《启程随笔》曾风靡全班，作为一本早已超乎随笔的读物，也是唯一一本红笔字迹比黑笔字迹还要多的评论家必争之书，其所具备的精神意义和普世价值不可估量。近日编者重读经典，整理出一点精选内容供分享、参考。（还要感谢张老，忍受了放飞自我的作业，没有让经典蒙尘）
 > 
@@ -182,4 +180,3 @@ tags:								#标签
 ![](http://zhuaiyuwen.xyz/img/QichengEssay/5.jpeg)
 
 ---
-END
