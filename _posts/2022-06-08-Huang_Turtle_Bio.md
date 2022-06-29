@@ -4,7 +4,7 @@ title:      黄龟传			# 标题
 subtitle:   之外语文文言测试题              #副标题
 date:       2022-06-08 				# 时间
 author:     yellowturtlesdad 				# 作者
-header-img: img/zhuai_horizontal_eng.png 	#这篇文章标题背景图片
+header-img: img/Huang_Turtle_Bio/title.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 土神
