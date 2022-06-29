@@ -1,3 +1,16 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      黄龟传			# 标题
+subtitle:   之外语文文言测试题              #副标题
+date:       2022-06-08 				# 时间
+author:     yellowturtlesdad 				# 作者
+header-img: img/zhuai_horizontal_eng.png 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 之外语文
+    - 互联网
+---
+
 <section style="line-height: 1.56; letter-spacing: 1px; padding-right: 15px; padding-left: 15px; font-size: 15px; box-sizing: border-box; font-style: normal; font-weight: 400; text-align: justify;" data-mpa-powered-by="yiban.io">
   <section style="position: static; box-sizing: border-box;" powered-by="xiumi.us">
     <section style="text-align: center; justify-content: center; margin: 10px 0%; display: flex; flex-flow: row nowrap; position: static; box-sizing: border-box;">
