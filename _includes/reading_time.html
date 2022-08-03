@@ -4,9 +4,9 @@
     {% else %}
         {% assign words = page.content | strip_html | strip_newlines | split: "" | size %}
     {% endif %}
-    {% if words < 360 %}
+    {% if words < 720 %}
         {{ words }} 字 阅读时间约 1 分钟
     {% else %}
-        {{ words }} 字 阅读时间约 {{ words | divided_by:180 }} 分钟
+        {{ words }} 字 阅读时间约 {{ words | divided_by:420 }} 分钟
     {% endif %}
 </span>
