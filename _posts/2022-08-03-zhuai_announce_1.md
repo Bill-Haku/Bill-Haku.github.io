@@ -2,7 +2,7 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      之外语文就佩洛西窜访台湾发表声明			# 标题
 subtitle:   之外语文公告第[2022]1号              #副标题
-date:       2022-08-02 				# 时间
+date:       2022-08-03 				# 时间
 author:     				# 作者
 header-img: img/zhuai_horizontal_eng.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
